@@ -1,4 +1,7 @@
 edad  = 43
 nombre ='Focus'
-logico =True
-print('Hola Mundo')
+log =True
+print('Hola Python')
+print(nombre)
+print(edad)
+print(log)
